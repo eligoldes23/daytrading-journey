@@ -1,21 +1,59 @@
-MIT License
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Journey: Golf to Day Trading</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <header class="bg-blue-800 text-white py-4">
+        <div class="container mx-auto text-center">
+            <h1 class="text-3xl font-bold">From College Golf to Day Trading</h1>
+            <p class="text-lg">Overcoming Challenges and Building a Future in Finance</p>
+        </div>
+    </header>
 
-Copyright (c) 2025 eligoldes23
+    <main class="container mx-auto px-4 py-8">
+        <section class="bg-white p-6 rounded-lg shadow-md mb-8">
+            <h2 class="text-2xl font-bold mb-4">About Me</h2>
+            <p>I'm a finance student at the Eller College of Management, University of Arizona. My journey began as a college golfer in Tennessee, and through resilience and determination, I've transitioned into the world of finance, focusing specifically on day trading. My story is one of overcoming failures, managing risks, and relentless self-belief—even when others doubted my path.</p>
+        </section>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+        <section class="bg-white p-6 rounded-lg shadow-md mb-8">
+            <h2 class="text-2xl font-bold mb-4">My Evolution</h2>
+            <ul class="list-disc pl-5">
+                <li><strong>Golf Career:</strong> Competed at the collegiate level in Tennessee, learned discipline, focus, and resilience.</li>
+                <li><strong>Transition to Arizona:</strong> Moved to UA to pursue finance, applying the discipline from athletics to academics and trading.</li>
+                <li><strong>Day Trading Growth:</strong> Learned through both success and failure, embracing risk management and critical thinking skills.</li>
+            </ul>
+        </section>
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+        <section class="bg-white p-6 rounded-lg shadow-md mb-8">
+            <h2 class="text-2xl font-bold mb-4">Portfolio & Samples</h2>
+            <div class="grid md:grid-cols-2 gap-4">
+                <div>
+                    <h3 class="font-semibold">Trading Strategies & Analysis (Video)</h3>
+                    <a href="#" class="text-blue-500 underline">Watch Now</a>
+                    <p class="text-sm">How I analyze the market daily and manage risk effectively.</p>
+                </div>
+                <div>
+                    <h3 class="font-semibold">Performance Insights</h3>
+                    <a href="#" class="text-blue-500 underline">View Details</a>
+                    <p class="text-sm">Detailed overview of my performance and lessons learned from significant trades.</p>
+                </div>
+            </div>
+        </section>
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+        <section class="bg-white p-6 rounded-lg shadow-md">
+            <h2 class="text-2xl font-bold mb-4">Contact & Connect</h2>
+            <p>Email: <a href="mailto:your-email@arizona.edu" class="text-blue-500 underline">your-email@arizona.edu</a></p>
+            <p>LinkedIn: <a href="#" class="text-blue-500 underline">Your LinkedIn Profile</a></p>
+        </section>
+    </main>
+
+    <footer class="bg-gray-200 py-4 text-center">
+        <p class="text-sm">© 2025 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
